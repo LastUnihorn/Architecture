@@ -109,4 +109,15 @@
         xsi:type="archimate:CommunicationNetwork"
         href="CommunicationNetwork_id-5dd0a32360e44718953de6fa1f31e2fc.xml#id-5dd0a32360e44718953de6fa1f31e2fc"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-ec797ecb742f4f5a94e8dd7ecf8c4f8b"
+      textAlignment="1"
+      content="Just a dummy note">
+    <bounds
+        x="39"
+        y="48"
+        width="185"
+        height="80"/>
+  </children>
 </archimate:ArchimateDiagramModel>
